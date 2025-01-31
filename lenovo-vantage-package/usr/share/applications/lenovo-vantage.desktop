@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Lenovo Vantage for Linux
+Comment=Battery management and system control
+Exec=pkexec /usr/bin/lenovo-vantage
+Icon=icon
+Terminal=false
+Type=Application
+Categories=Utility;System;

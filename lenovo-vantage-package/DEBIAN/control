@@ -1,0 +1,8 @@
+Package: lenovo-vantage
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: Yash Bhangale yashbhangale9@gmail.com
+Description: Lenovo Battery Management Tool for Linux
