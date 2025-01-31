@@ -7,9 +7,6 @@
 - [Usage](#usage) 
 
 
-
-
-
 # Lenovo Vantage for Linux 
 
 Lenovo Vantage is an essential tool for managing battery performance, power settings, and system optimizations on Lenovo laptops. However, the official Lenovo Vantage is not available for Linux, unlike its Windows counterpart.
@@ -38,6 +35,11 @@ To fill this gap, I have developed Lenovo Vantage for Linux, providing key power
 
 # Installation
 
+```
+git clone https://github.com/yashbhangale/lenovo-vantage-for-linux.git && cd 
+lenovo-vantage-for-linux
+```
+
 ### install script.sh 
 
 ```
@@ -46,7 +48,7 @@ sudo chmod +x script.sh && sudo ./script.sh
 
 ### Download Deb File
 
-https://github.com/yashbhangale/lenovo-vantage-for-linux/releases/download/main/lenovo-vantage_1.0_amd64.deb
+![download deb file](https://github.com/yashbhangale/lenovo-vantage-for-linux/releases/download/main/lenovo-vantage_1.0_amd64.deb)
 
 ### install Deb file for (Ubuntu / Debian)
 
