@@ -1,11 +1,20 @@
+### install script.sh 
 
-install zenity
-
 ```
-sudo apt install zenity
+sudo chmod +x script.sh && sudo ./script.sh
 ```
 
-give permission to script 
+### install deb file for (Ubuntu / Debian)
+
 ```
-sudo chmod +x lenovo_vantage_gui.sh
+sudo dpkg -i lenovo-vantage_1.0_amd64.deb
 ```
+
+### for other distros main.py
+
+```
+python3 main.py
+```
+
+
+
