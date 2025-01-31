@@ -1,6 +1,5 @@
 # Lenovo Vantage for Linux
 
-
 ## Table of Contents 📖  
 - [Introduction](#introduction)  
 - [Features](#features)  
@@ -13,6 +12,8 @@
 Lenovo Vantage is an essential tool for managing battery performance, power settings, and system optimizations on Lenovo laptops. However, the official Lenovo Vantage is not available for Linux, unlike its Windows counterpart.
 
 To fill this gap, I have developed Lenovo Vantage for Linux, providing key power management features tailored for various Linux distributions, including Ubuntu, Debian, Arch, Fedora, and openSUSE.
+
+
 
 
 # Features 🌟
@@ -34,12 +35,7 @@ To fill this gap, I have developed Lenovo Vantage for Linux, providing key power
 
 # Installation
 
-```
-git clone https://github.com/yashbhangale/lenovo-vantage-for-linux.git && cd 
-lenovo-vantage-for-linux
-```
-
-### Install script.sh 
+### install script.sh 
 
 ```
 sudo chmod +x script.sh && sudo ./script.sh
@@ -47,13 +43,15 @@ sudo chmod +x script.sh && sudo ./script.sh
 
 ### Download Deb File
 
-![download deb file](https://github.com/yashbhangale/lenovo-vantage-for-linux/releases/download/main/lenovo-vantage_1.0_amd64.deb)
+https://github.com/yashbhangale/lenovo-vantage-for-linux/releases/download/main/lenovo-vantage_1.0_amd64.deb
 
-### Install Deb file for (Ubuntu / Debian)
+### install Deb file for (Ubuntu / Debian)
 
 ```
 sudo dpkg -i lenovo-vantage_1.0_amd64.deb
 ```
+
+
 
 # Usage
 
@@ -61,7 +59,7 @@ sudo dpkg -i lenovo-vantage_1.0_amd64.deb
 sudo lenovo-vantage
 ``` 
 
-### For other Distros main.py
+### for other Distros main.py
 
 ```
 python3 main.py
