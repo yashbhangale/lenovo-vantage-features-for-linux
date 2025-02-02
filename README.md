@@ -1,4 +1,5 @@
 # Lenovo Vantage for Linux
+![image](https://github.com/user-attachments/assets/55919554-4d1f-4c45-aa1f-d5f0269a620d)
 
 
 ## Table of Contents 📖  
